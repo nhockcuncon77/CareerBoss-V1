@@ -1,0 +1,7 @@
+streamlit
+pinecone-client
+openai
+langchain
+rank_bm25
+pandas
+numpy
